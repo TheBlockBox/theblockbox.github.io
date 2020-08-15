@@ -1,2 +1,2 @@
-# theblockbox.github.io
+# TheBlockBox.github.io
 The repository for our website: https://theblockbox.github.io
