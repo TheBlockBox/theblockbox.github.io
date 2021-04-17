@@ -1,2 +1,2 @@
 # TheBlockBox.github.io
-The repository for our website: https://theblockbox.github.io
+Welcome! This here is the repository for [our website](https://theblockbox.github.io).

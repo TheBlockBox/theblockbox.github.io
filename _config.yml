@@ -1,0 +1,29 @@
+permalink: /:title/
+title: TheBlockBox
+tagline: Minecraft Modding
+description: A website about the team of TheBlockBox and our mods.
+remote_theme: niklasbuschmann/contrast@v2.11
+lang: "en"
+show_sidebar: true
+navigation:
+  - { file: "index.md", sidebaricon: home }
+  - { file: "projects.md", sidebaricon: project-diagram }
+  - { file: "blog.md", sidebaricon: newspaper }
+  - { file: "about.md", sidebaricon: address-card }
+external:
+  - { title: Discord, icon: discord, url: "https://discord.gg/ttsaFnH" }
+  - { title: GitHub, icon: github, url: "https://github.com/TheBlockBox" }
+  - { title: YouTube, icon: youtube, url: "https://www.youtube.com/channel/UC1I0c-jOshuAs34NsdPBCvw" }
+  - { title: Patreon, icon: patreon, url: "https://www.patreon.com/TheBlockBox" }
+readme_index:
+  enabled: false
+logo: "/favicon.png"
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-remote-theme
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-readme-index
