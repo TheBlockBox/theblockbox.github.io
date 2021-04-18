@@ -4,5 +4,5 @@ title: About
 We are a small team of coders, modellers and texturers who are interested in Minecraft modding.
 
 ## Staff
-* **[RebelT](https://github.com/TheRebelT)** - Director, Texturer and Modeller
-* **[RedstoneTim](https://github.com/RedstoneTim)** - Main Coder
+{% for member in site.data.staff %}
+* [{{ member.name }}](https://github.com/{{ member.name }}){:target="_blank"} - {{ member.role }}{% endfor %}
