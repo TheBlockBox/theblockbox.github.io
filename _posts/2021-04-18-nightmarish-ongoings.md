@@ -2,7 +2,7 @@
 category: huntersnightmare
 author: RedstoneTim
 ---
-![Hunter's Nightmare logo](https://theblockbox.github.io/assets/images/huntersnightmare.png)
+![Hunter's Nightmare logo](/assets/images/huntersnightmare.png)
 
 Welcome! This here, Ladies and Gentlemen,
 is the first of a series of bi-weekly blog posts concerning our biggest mod, Hunter's Nightmare (formerly Hunter's Dream)!
